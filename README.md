@@ -137,15 +137,8 @@ To create the executable (`.exe`) file for distribution:
 
 ---
 
-## **Team Members**
 
-This project was developed by the following team members:
 
 - **Mohamed Sameh Mohamed** – 2100678
-- **Jan Farag Hanna** – 2001814
-- **Ahmed Tarek Sayed** – 2002327
-- **Ahmed Abdelsamad Ahmed** – 2101945
-- **Hussam elsayed mohamed** - 2101852
-- **Abdelrahman Ashour Hassan** - 2101736
 
 ---
