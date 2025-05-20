@@ -15,6 +15,7 @@ from PyQt5.QtWidgets import (
     QHeaderView,
     QWidget,
 )
+
 import sys
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
