@@ -139,6 +139,6 @@ To create the executable (`.exe`) file for distribution:
 
 
 
-- **Mohamed Sameh Mohamed** – 2100678
+- **Mohamed Sameh Mohamed** – 
 
 ---
