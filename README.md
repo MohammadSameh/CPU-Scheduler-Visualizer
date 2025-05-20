@@ -1,4 +1,4 @@
-# OS CPU Scheduler Visualizer
+#  CPU Scheduler Visualizer
 
 This project is a **CPU Scheduling Visualizer** built with **Python** and **PyQt5**. It supports multiple CPU scheduling algorithms such as **FCFS**, **SJF (Preemptive and Non-Preemptive)**, **Priority (Preemptive and Non-Preemptive)**, and **Round Robin**.
 
